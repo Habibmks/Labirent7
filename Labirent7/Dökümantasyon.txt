@@ -1,0 +1,24 @@
+-Labirent oyunun menüsünde bulunan 2 buton ile direkt 1. bölüme başlayabilir
+veya bölümleri seçip istenilen bölümden başlanılabilir.
+
+-Oyunda amaç yeşil olan kutudan kırmızı olan kutuya çizgilere dokunmada
+fareyi ulaştırmaktır.
+
+-Her bölüm bitiminde ana menüye dönme ve bölüm seçme ekranına yönlendirme
+butonları bulunmaktadır.
+
+-Bölüm bitmeden menüye dönmek için ise esc tuşu kullanılabilir.
+
+-Labirentin duvarları ile temas halinde oyun duracaktır tekrar başlamak için
+yeşil kutuya geri dönülüp baştan başlanmalıdır.
+
+-Geliştirilme aşamasında kaynakçada gösterilen çarpışma kütüphanesi kullanılarak
+oyunda hata alma mekanizması oluşturulmuştur.
+
+-Teknik olan açıklamalar kod içerisinde yorum satırlarında belirtilmiştir.
+
+-Tarayıcıda yükleniyor ekranında kalma hatasını esgeçmek için localhost ile çalışılabilir
+veya atom editorde live server üzerinden başlatılarak çalıştırılabilir.
+
+Kaynakça:
+https://github.com/bmoren/p5.collide2D
